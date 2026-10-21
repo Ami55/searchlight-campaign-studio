@@ -1,0 +1,5 @@
+Searchlight Campaign Studio: eight modules, standalone sources retained unchanged.
+Build, syntax checks, and calculation/API tests passed. API requests were mocked; live OpenAI requires a Vercel key.
+Browser QA of the combined shell was not completed because this session blocked the local preview server.
+Workspace exports save inputs, not complete embedded generated AI output or alternate growth scenarios. Use individual module exports for those.
+EchoLens Paid Media Intelligence remains separate and is not included in this eight-module bundle.

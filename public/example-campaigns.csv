@@ -1,0 +1,7 @@
+period,channel,spend,impressions,clicks,conversions,revenue
+baseline,Google Search,4000,100000,2500,100,9000
+baseline,Paid social,3000,180000,3000,60,5400
+baseline,Affiliates,1000,10000,500,30,2700
+current,Google Search,4500,110000,2600,90,8100
+current,Paid social,3500,190000,3200,65,5850
+current,Affiliates,1500,15000,750,45,4050
